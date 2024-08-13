@@ -1,3 +1,0 @@
-512mb.bin CRITICAL
-200mb.bin HIGH
-100mb.bin NORMAL
